@@ -4,5 +4,7 @@ hellooo file changed.
  How are you?
 
 public static void m1(){
+  Scanner sc=new Scanner(System.in);
+  
 }
 
