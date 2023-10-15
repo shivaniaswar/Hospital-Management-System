@@ -8,3 +8,8 @@ public static void m1(){
   
 }
 
+//TASK-120
+public void m2(){
+System.out.println("This is the method m2")
+}
+
